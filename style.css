@@ -1,0 +1,38 @@
+#nav, footer{
+    background-color: #0ba51f;
+}
+
+body{
+    font-family: 'Kufam', cursive;
+    background-color:black;
+}
+i{
+    color: white;
+}
+
+/*todo con relacion a la imagen de herosection*/
+#hero{
+    background-image: url("img/200.gif");
+    height:50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#text-hero{
+    color: white;
+    text-align: center;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+#end{
+    background-color: black;
+    color: gray;
+    text-align: center;
+    height: 10vh;
+    padding-top: 2.5vh;
+}
+
+#p1{
+    color: white;
+}
